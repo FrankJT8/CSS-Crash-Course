@@ -1,0 +1,9 @@
+div {
+width: 100%;
+max-width: 200px;
+height: 100vw;
+border: 2px solid red;
+font-size: 12px;
+font-weight: 600;
+font-family: "roboto", sans-serif; 
+}
